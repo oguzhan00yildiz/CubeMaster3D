@@ -14,4 +14,5 @@ Level 1 screenshot.
 The idea of the game is being able to upload your picture to surface of the cube.
 After uploding the picture game is mixing the cubes and you have to solve the puzzle for completing the level.
 There are 3 levels in the game.
+
 ![image](https://user-images.githubusercontent.com/95942385/232889084-c0a68850-6a54-4ea6-ab67-ca40d6d50aad.png)
