@@ -8,6 +8,7 @@ For best experience
 Choose any mobile resolution mode the game is mobile adapted.
 
 Level 1 screenshot.
+
 ![image](https://user-images.githubusercontent.com/95942385/232888945-30871ecc-fade-4446-b492-f818d73ec246.png)
 
 
